@@ -1,6 +1,5 @@
 .navbar {
   background: white;
-  color: #751AF7;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -24,7 +23,7 @@
 }
 
 .navbar a {
-  color: black;
+  color: #505050;
   text-decoration: none;
 }
 

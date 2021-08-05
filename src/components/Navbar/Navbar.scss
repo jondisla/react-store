@@ -1,7 +1,6 @@
-$mainColor: #751AF7;
+$mainColor: rgb(80, 80, 80);
 .navbar{
     background: white;
-    color:$mainColor;
     display: flex;
     padding: 0 40px;
     height:60px;
@@ -15,7 +14,7 @@ $mainColor: #751AF7;
         gap: 20px;
     }
     a{
-        color:black;
+        color:$mainColor;
         text-decoration: none;
     }
     .action-menu{

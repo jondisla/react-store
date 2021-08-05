@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,CAAA;EACV,WAAW,EAAE,IAAI;CAUpB;;AAXD,AAEI,cAFU,CAEV,EAAE,CAAA;EACE,SAAS,EAAE,IAAI;CAClB;;AAJL,AAKI,cALU,CAKV,gBAAgB,CAAA;EACZ,WAAW,EAAE,IAAI;CAIpB;;AAVL,AAOQ,cAPM,CAKV,gBAAgB,CAEZ,KAAK,CAAA;EACD,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "ProductFooter.scss"
+    ],
+    "names": [],
+    "file": "ProductFooter.css"
+}

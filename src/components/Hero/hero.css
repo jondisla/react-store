@@ -1,0 +1,64 @@
+/** @format */
+.heroSection {
+  padding: 50px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 auto;
+}
+
+.heroSection img {
+  width: 90%;
+}
+
+.heroSection .heroInfo {
+  padding-top: 40px;
+}
+
+.heroSection .heroInfo h2 {
+  font-size: 55px;
+}
+
+.heroSection .heroInfo h3 {
+  font-size: 40px;
+  color: #ff7700;
+}
+
+.heroSection .heroInfo .price {
+  font-size: 40px;
+}
+
+.heroSection .heroInfo .divider {
+  border: 1px solid black;
+  width: 50%;
+}
+
+.heroSection .heroInfo .buyBtnLarge {
+  margin-top: 40px;
+  background: grey;
+  width: 150px;
+  height: 50px;
+  font-size: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.heroSection .heroInfo .buyBtnLarge a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=hero.css.map */

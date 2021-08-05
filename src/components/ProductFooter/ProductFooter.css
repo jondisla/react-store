@@ -1,0 +1,16 @@
+.productFooter {
+  padding-top: 50px;
+}
+
+.productFooter h2 {
+  font-size: 60px;
+}
+
+.productFooter .productFeatures {
+  padding-top: 40px;
+}
+
+.productFooter .productFeatures .icon {
+  font-size: 80px;
+}
+/*# sourceMappingURL=ProductFooter.css.map */
